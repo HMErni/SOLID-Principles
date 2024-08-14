@@ -1,0 +1,14 @@
+C:\_ERNI-Hero\_SOLID\Dependency Inversion Principle\DIP\bin\Debug\net6.0\DIP.exe
+C:\_ERNI-Hero\_SOLID\Dependency Inversion Principle\DIP\bin\Debug\net6.0\DIP.deps.json
+C:\_ERNI-Hero\_SOLID\Dependency Inversion Principle\DIP\bin\Debug\net6.0\DIP.runtimeconfig.json
+C:\_ERNI-Hero\_SOLID\Dependency Inversion Principle\DIP\bin\Debug\net6.0\DIP.dll
+C:\_ERNI-Hero\_SOLID\Dependency Inversion Principle\DIP\bin\Debug\net6.0\DIP.pdb
+C:\_ERNI-Hero\_SOLID\Dependency Inversion Principle\DIP\obj\Debug\net6.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\_ERNI-Hero\_SOLID\Dependency Inversion Principle\DIP\obj\Debug\net6.0\DIP.AssemblyInfoInputs.cache
+C:\_ERNI-Hero\_SOLID\Dependency Inversion Principle\DIP\obj\Debug\net6.0\DIP.AssemblyInfo.cs
+C:\_ERNI-Hero\_SOLID\Dependency Inversion Principle\DIP\obj\Debug\net6.0\DIP.csproj.CoreCompileInputs.cache
+C:\_ERNI-Hero\_SOLID\Dependency Inversion Principle\DIP\obj\Debug\net6.0\DIP.dll
+C:\_ERNI-Hero\_SOLID\Dependency Inversion Principle\DIP\obj\Debug\net6.0\refint\DIP.dll
+C:\_ERNI-Hero\_SOLID\Dependency Inversion Principle\DIP\obj\Debug\net6.0\DIP.pdb
+C:\_ERNI-Hero\_SOLID\Dependency Inversion Principle\DIP\obj\Debug\net6.0\DIP.genruntimeconfig.cache
+C:\_ERNI-Hero\_SOLID\Dependency Inversion Principle\DIP\obj\Debug\net6.0\ref\DIP.dll

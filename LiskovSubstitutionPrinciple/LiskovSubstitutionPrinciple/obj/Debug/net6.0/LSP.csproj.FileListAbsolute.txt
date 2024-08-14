@@ -1,0 +1,28 @@
+C:\_ERNI-Hero\_SOLID\LSP\LSP\bin\Debug\net6.0\LSP.exe
+C:\_ERNI-Hero\_SOLID\LSP\LSP\bin\Debug\net6.0\LSP.deps.json
+C:\_ERNI-Hero\_SOLID\LSP\LSP\bin\Debug\net6.0\LSP.runtimeconfig.json
+C:\_ERNI-Hero\_SOLID\LSP\LSP\bin\Debug\net6.0\LSP.dll
+C:\_ERNI-Hero\_SOLID\LSP\LSP\bin\Debug\net6.0\LSP.pdb
+C:\_ERNI-Hero\_SOLID\LSP\LSP\obj\Debug\net6.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\_ERNI-Hero\_SOLID\LSP\LSP\obj\Debug\net6.0\LSP.AssemblyInfoInputs.cache
+C:\_ERNI-Hero\_SOLID\LSP\LSP\obj\Debug\net6.0\LSP.AssemblyInfo.cs
+C:\_ERNI-Hero\_SOLID\LSP\LSP\obj\Debug\net6.0\LSP.csproj.CoreCompileInputs.cache
+C:\_ERNI-Hero\_SOLID\LSP\LSP\obj\Debug\net6.0\LSP.dll
+C:\_ERNI-Hero\_SOLID\LSP\LSP\obj\Debug\net6.0\refint\LSP.dll
+C:\_ERNI-Hero\_SOLID\LSP\LSP\obj\Debug\net6.0\LSP.pdb
+C:\_ERNI-Hero\_SOLID\LSP\LSP\obj\Debug\net6.0\LSP.genruntimeconfig.cache
+C:\_ERNI-Hero\_SOLID\LSP\LSP\obj\Debug\net6.0\ref\LSP.dll
+C:\_ERNI-Hero\_SOLID\Liskov Subtitution Principle\LSP\bin\Debug\net6.0\LSP.exe
+C:\_ERNI-Hero\_SOLID\Liskov Subtitution Principle\LSP\bin\Debug\net6.0\LSP.deps.json
+C:\_ERNI-Hero\_SOLID\Liskov Subtitution Principle\LSP\bin\Debug\net6.0\LSP.runtimeconfig.json
+C:\_ERNI-Hero\_SOLID\Liskov Subtitution Principle\LSP\bin\Debug\net6.0\LSP.dll
+C:\_ERNI-Hero\_SOLID\Liskov Subtitution Principle\LSP\bin\Debug\net6.0\LSP.pdb
+C:\_ERNI-Hero\_SOLID\Liskov Subtitution Principle\LSP\obj\Debug\net6.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\_ERNI-Hero\_SOLID\Liskov Subtitution Principle\LSP\obj\Debug\net6.0\LSP.AssemblyInfoInputs.cache
+C:\_ERNI-Hero\_SOLID\Liskov Subtitution Principle\LSP\obj\Debug\net6.0\LSP.AssemblyInfo.cs
+C:\_ERNI-Hero\_SOLID\Liskov Subtitution Principle\LSP\obj\Debug\net6.0\LSP.csproj.CoreCompileInputs.cache
+C:\_ERNI-Hero\_SOLID\Liskov Subtitution Principle\LSP\obj\Debug\net6.0\LSP.dll
+C:\_ERNI-Hero\_SOLID\Liskov Subtitution Principle\LSP\obj\Debug\net6.0\refint\LSP.dll
+C:\_ERNI-Hero\_SOLID\Liskov Subtitution Principle\LSP\obj\Debug\net6.0\LSP.pdb
+C:\_ERNI-Hero\_SOLID\Liskov Subtitution Principle\LSP\obj\Debug\net6.0\LSP.genruntimeconfig.cache
+C:\_ERNI-Hero\_SOLID\Liskov Subtitution Principle\LSP\obj\Debug\net6.0\ref\LSP.dll

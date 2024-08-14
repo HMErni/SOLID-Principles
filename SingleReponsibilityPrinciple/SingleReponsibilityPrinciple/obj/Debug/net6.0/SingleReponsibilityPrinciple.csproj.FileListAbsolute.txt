@@ -1,0 +1,28 @@
+c:\_ERNI-Hero\_SOLID\Single Responsibility Principle\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.exe
+c:\_ERNI-Hero\_SOLID\Single Responsibility Principle\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.deps.json
+c:\_ERNI-Hero\_SOLID\Single Responsibility Principle\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.runtimeconfig.json
+c:\_ERNI-Hero\_SOLID\Single Responsibility Principle\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.dll
+c:\_ERNI-Hero\_SOLID\Single Responsibility Principle\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.pdb
+c:\_ERNI-Hero\_SOLID\Single Responsibility Principle\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+c:\_ERNI-Hero\_SOLID\Single Responsibility Principle\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.AssemblyInfoInputs.cache
+c:\_ERNI-Hero\_SOLID\Single Responsibility Principle\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.AssemblyInfo.cs
+c:\_ERNI-Hero\_SOLID\Single Responsibility Principle\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.csproj.CoreCompileInputs.cache
+c:\_ERNI-Hero\_SOLID\Single Responsibility Principle\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.dll
+c:\_ERNI-Hero\_SOLID\Single Responsibility Principle\SingleReponsibilityPrinciple\obj\Debug\net6.0\refint\SingleReponsibilityPrinciple.dll
+c:\_ERNI-Hero\_SOLID\Single Responsibility Principle\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.pdb
+c:\_ERNI-Hero\_SOLID\Single Responsibility Principle\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.genruntimeconfig.cache
+c:\_ERNI-Hero\_SOLID\Single Responsibility Principle\SingleReponsibilityPrinciple\obj\Debug\net6.0\ref\SingleReponsibilityPrinciple.dll
+C:\_ERNI-Hero\_SOLID\BAGO\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.exe
+C:\_ERNI-Hero\_SOLID\BAGO\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.deps.json
+C:\_ERNI-Hero\_SOLID\BAGO\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.runtimeconfig.json
+C:\_ERNI-Hero\_SOLID\BAGO\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.dll
+C:\_ERNI-Hero\_SOLID\BAGO\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.pdb
+C:\_ERNI-Hero\_SOLID\BAGO\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\_ERNI-Hero\_SOLID\BAGO\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\_ERNI-Hero\_SOLID\BAGO\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.AssemblyInfo.cs
+C:\_ERNI-Hero\_SOLID\BAGO\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\_ERNI-Hero\_SOLID\BAGO\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.dll
+C:\_ERNI-Hero\_SOLID\BAGO\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\refint\SingleReponsibilityPrinciple.dll
+C:\_ERNI-Hero\_SOLID\BAGO\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.pdb
+C:\_ERNI-Hero\_SOLID\BAGO\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.genruntimeconfig.cache
+C:\_ERNI-Hero\_SOLID\BAGO\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\ref\SingleReponsibilityPrinciple.dll
