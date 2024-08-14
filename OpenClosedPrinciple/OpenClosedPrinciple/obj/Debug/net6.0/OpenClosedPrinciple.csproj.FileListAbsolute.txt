@@ -26,3 +26,4 @@ C:\_ERNI-Hero\_SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\re
 C:\_ERNI-Hero\_SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.pdb
 C:\_ERNI-Hero\_SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.genruntimeconfig.cache
 C:\_ERNI-Hero\_SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\ref\OpenClosedPrinciple.dll
+C:\_ERNI-Hero\_SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.sourcelink.json
